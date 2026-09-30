@@ -1,0 +1,6 @@
+{
+  "name": "Harmes Agent",
+  "description": "An on-device-first hybrid AI agent and intelligent operating assistant for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
